@@ -25,6 +25,22 @@
 
 footer {
     height: 150px;
-    border: dotted;
+    border: solid #022b37;
+}
+
+.footerText {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.allFooterIcons {
+    text-align: center;
+}
+
+.footerIcons {
+    margin: 5px;
+    width: 23px;
+    display: inline;
+    justify-content: space-between;
 }
 /*contact stylesheet*/
