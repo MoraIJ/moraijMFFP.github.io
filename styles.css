@@ -8,5 +8,23 @@
     font-size: 20px;
 } 
 
+.littleCards {
+    display: flex;
+    flex-wrap: wrap;
 
+}
+
+.card {
+    margin: 20px 20px 20px 20px;
+}
+
+.littleNauts{
+    margin: 20px 20px 20px 20px;
+    width: 20rem;
+}
+
+footer {
+    height: 150px;
+    border: dotted;
+}
 /*contact stylesheet*/
