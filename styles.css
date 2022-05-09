@@ -44,3 +44,16 @@ footer {
     justify-content: space-between;
 }
 /*contact stylesheet*/
+
+.contactForm {
+    margin: 20px;
+}
+
+.contactTopText {
+    text-align: center;
+    font-family: 'Cutive Mono', monospace;
+}
+
+.contactButton {
+    color: white;
+}
