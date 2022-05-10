@@ -1,0 +1,59 @@
+
+.nav-item {
+    font-family: 'Cutive Mono', monospace;
+}
+
+.carousel-caption {
+    font-family: 'Cherish', cursive;
+    font-size: 20px;
+} 
+
+.littleCards {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.card {
+    margin: 20px 20px 20px 20px;
+}
+
+.littleNauts{
+    margin: 20px 20px 20px 20px;
+    width: 20rem;
+}
+
+footer {
+    height: 150px;
+    border: solid #022b37;
+}
+
+.footerText {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.allFooterIcons {
+    text-align: center;
+}
+
+.footerIcons {
+    margin: 5px;
+    width: 23px;
+    display: inline;
+    justify-content: space-between;
+}
+/*contact stylesheet*/
+
+.contactForm {
+    margin: 20px;
+}
+
+.contactTopText {
+    text-align: center;
+    font-family: 'Cutive Mono', monospace;
+}
+
+.contactButton {
+    color: white;
+}
